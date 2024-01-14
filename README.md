@@ -1,16 +1,16 @@
 # PROBLEM STATEMENT
 Implement a linked list and perform the following operations:<br>
-<b>Insert at the start:<b> Add a new node to the beginning of the linked list.<br>
-<b>Insert at the End:<b> Add a new node to the end of the linked list.<br>
-<b> at a Specific Position:<b> Add a new node at a specified position in the linked list.<br>
-<b> from the start:<b> Remove and return the node from the beginning of the linked list<br>
-<b>Delete from the End:<b> Remove and return the node from the end of the linked list.<br>
-<b>Delete at a Specific Position:<b> Remove and return the node at a specified position in the linked list.<br>
-<b>Search:<b> Check if a specific element is present in the linked list.<br>
-<b>Display:<b> Display the elements of the linked list.<br>
+**Insert at the start:** Add a new node to the beginning of the linked list.<br>
+**Insert at the End:** Add a new node to the end of the linked list.<br>
+**Insert at a Specific Position:** Add a new node at a specified position in the linked list.<br>
+**Delete from the start:** Remove and return the node from the beginning of the linked list<br>
+**Delete from the End:** Remove and return the node from the end of the linked list.<br>
+**Delete at a Specific Position:** Remove and return the node at a specified position in the linked list.<br>
+**Search:** Check if a specific element is present in the linked list.<br>
+**Display:** Display the elements of the linked list.<br>
 Ensure that you have methods to handle cases where the linked list is empty or when attempting to delete from an empty list.<br>
 
-# EXAMPLE
+## EXAMPLE
 For example, given an initially empty linked list, perform the following operations:<br>
 
 1. Insert elements 10, 20, 30 at the beginning of the linked list.<br>
